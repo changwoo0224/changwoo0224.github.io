@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "HAN's Blog"
 title_separator          : "-"
@@ -111,8 +111,8 @@ analytics:
 author:
   name             : "Changwoo HAN"
   avatar           : "me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Everywhere"
+  bio              : "Engineering"
+  location         : "Seoul"
   email            : "ooo224@naver.com"
   links:
     - label: "Email"
