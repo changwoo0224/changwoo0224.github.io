@@ -5,8 +5,8 @@ main:
    - title: "About"
      url: /about/
   
-   #- title: "My work"
-     #url: /_pages/my-work/
+   - title: "My work"
+     url: /my-work/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
